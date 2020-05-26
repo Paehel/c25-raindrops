@@ -13,7 +13,7 @@ function setup() {
 }
 
 function draw() {
-  background("grey"); 
+  background("black"); 
   raindrops1.draw();
   //raindrops2.draw();
   for(var i = 0; i<1000;i++){
